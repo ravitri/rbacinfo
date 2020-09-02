@@ -1,2 +1,2 @@
-# rc
-Sample Golang Client app
+# rbacinfo
+Golang client util to fetch RBAC details
